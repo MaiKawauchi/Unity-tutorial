@@ -1,5 +1,5 @@
 using UnityEngine;
-using Syateem.Collections;
+using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
